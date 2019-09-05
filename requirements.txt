@@ -1,0 +1,6 @@
+flask
+mysqlclient
+Flask-RESTful
+Flask-Cache
+flask-orator
+Flask
